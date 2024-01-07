@@ -1,4 +1,5 @@
-# ful.io_Assignment-2
+# Extracting techologies
+
 
 1. Technology Name: jQuery
    - Regex Pattern: `<script\s+src=["']([^"']*\/jquery[^"']*\.(js|min\.js))["']`
